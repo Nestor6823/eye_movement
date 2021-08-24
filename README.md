@@ -1,2 +1,2 @@
 ### Eye Exercise
-web page with two eyes that follow your mouse movement
+The objective of this exercise is to understand the mouse events agreed with the iterations 
